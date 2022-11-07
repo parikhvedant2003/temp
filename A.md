@@ -49,4 +49,4 @@ flutter run
 
 
 
-We're excited you're here! :blue-heart:
+We're excited you're here! 💙
