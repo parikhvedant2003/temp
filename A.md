@@ -22,14 +22,10 @@ Check it yourself :)
 
 ## Screenshots
 
-<img src="https://github.com/parikhvedant2003/temp/blob/main/1.jpg?raw=true" width="32%">
-<img src="https://github.com/parikhvedant2003/temp/blob/main/2.jpg?raw=true" width="32%">
-<img src="https://github.com/parikhvedant2003/temp/blob/main/3.jpg?raw=true" width="32%">
-<img src="https://github.com/parikhvedant2003/temp/blob/main/4.jpg?raw=true" width="32%">
-<img src="https://github.com/parikhvedant2003/temp/blob/main/5.jpg?raw=true" width="32%">
-<img src="https://github.com/parikhvedant2003/temp/blob/main/6.jpg?raw=true" width="32%">
-<img src="https://github.com/parikhvedant2003/temp/blob/main/7.jpg?raw=true" width="32%">
-<img src="https://github.com/parikhvedant2003/temp/blob/main/8.jpg?raw=true" width="32%">
+<img src="https://github.com/parikhvedant2003/temp/blob/main/1.jpg?raw=true" width="32%"> <img src="https://github.com/parikhvedant2003/temp/blob/main/2.jpg?raw=true" width="32%">
+<img src="https://github.com/parikhvedant2003/temp/blob/main/3.jpg?raw=true" width="32%"> <img src="https://github.com/parikhvedant2003/temp/blob/main/4.jpg?raw=true" width="32%">
+<img src="https://github.com/parikhvedant2003/temp/blob/main/5.jpg?raw=true" width="32%"> <img src="https://github.com/parikhvedant2003/temp/blob/main/6.jpg?raw=true" width="32%">
+<img src="https://github.com/parikhvedant2003/temp/blob/main/7.jpg?raw=true" width="32%"> <img src="https://github.com/parikhvedant2003/temp/blob/main/8.jpg?raw=true" width="32%">
 
 ## Building from Source
 
